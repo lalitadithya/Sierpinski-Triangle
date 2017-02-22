@@ -1,6 +1,5 @@
 #include "Dependecies\glew\glew.h"
 #include "Dependecies\freeglut\freeglut.h"
-#include <cmath>
 #include <vector>
 
 #define NUM_SPLIT 5
